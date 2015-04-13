@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 4/12/2015 2:25:58 PM
+
+BeginCmp
+TimeStamp = /552A9CED;
+Reference = C1;
+ValeurCmp = 1u;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A9CB0;
+Reference = C2;
+ValeurCmp = 1u;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A9DB1;
+Reference = J1;
+ValeurCmp = 2JUMPER;
+IdModule  = Jump2;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A9D07;
+Reference = J2;
+ValeurCmp = 2JUMPER;
+IdModule  = Jump2;
+EndCmp
+
+BeginCmp
+TimeStamp = /552AB819;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A9CFF;
+Reference = R1;
+ValeurCmp = 4.7k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A9CCE;
+Reference = R2;
+ValeurCmp = 4.7k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /552A9CA1;
+Reference = U1;
+ValeurCmp = BME280;
+IdModule  = BME280;
+EndCmp
+
+EndListe
